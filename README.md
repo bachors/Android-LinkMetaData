@@ -1,6 +1,5 @@
 # Android-LinkMetaData
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-PrefixInput-red.svg?style=flat)](https://android-arsenal.com/details/1/6069)
-[![Release](https://jitpack.io/v/bachors/Android-Prefix-Input.svg)](https://jitpack.io/#bachors/Android-Prefix-Input)
+[![Release](https://jitpack.io/v/bachors/Android-LinkMetaData.svg)](https://jitpack.io/#bachors/Android-LinkMetaData)
 
 Get Link Meta Data Android.
 
